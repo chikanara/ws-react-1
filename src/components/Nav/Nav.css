@@ -1,0 +1,8 @@
+.nav {
+    background-color: #000;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}

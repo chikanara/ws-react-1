@@ -1,0 +1,11 @@
+.card-img{
+    background-color: purple;
+    color: #fff;
+    border-radius: 50%;
+   
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
